@@ -92,7 +92,7 @@ subText.Text = "discord.gg/DaveHubScript"
 subText.TextXAlignment = Enum.TextXAlignment.Left
 subText.Font = Enum.Font.GothamBold
 subText.TextSize = 16
-subText.TextColor3 = Color3.fromRGB(255,170,190) -- pale pink
+subText.TextColor3 = Color3.fromRGB(255,255,255) -- pale pink
 subText.TextStrokeTransparency = 0.7
 subText.TextTransparency = 1
 
@@ -176,7 +176,7 @@ title.Size = UDim2.new(1, -48, 1, 0)
 title.Position = UDim2.new(0, 18, 0, 0)
 title.BackgroundTransparency = 1
 title.Text = "Dave Hub"
-title.TextColor3 = Color3.fromRGB(255, 120, 130) -- pink-red
+title.TextColor3 = Color3.fromRGB(255, 255, 255) -- pink-red
 title.Font = Enum.Font.FredokaOne
 title.TextSize = 27
 title.TextXAlignment = Enum.TextXAlignment.Left
